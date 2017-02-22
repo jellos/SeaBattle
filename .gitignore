@@ -1,2 +1,7 @@
 .idea
 build
+/ShipBattle.iml
+/ShipBattle1.iml
+
+# Java class files
+*.class
