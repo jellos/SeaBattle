@@ -62,13 +62,13 @@
       <file leaf-file-name="ShootActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kipsap/jshipbattle/ShootActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="406" column="60" selection-start-line="406" selection-start-column="60" selection-end-line="406" selection-end-column="60" />
+            <state relative-caret-position="166">
+              <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
               <folding>
-                <element signature="e#5246#5804#0" expanded="true" />
-                <element signature="e#5803#5804#0" expanded="true" />
-                <element signature="e#5841#6337#0" expanded="true" />
-                <element signature="e#6336#6337#0" expanded="true" />
+                <element signature="e#5245#5803#0" expanded="true" />
+                <element signature="e#5802#5803#0" expanded="true" />
+                <element signature="e#5840#6336#0" expanded="true" />
+                <element signature="e#6335#6336#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2050,16 +2050,23 @@
       <option name="project" value="LOCAL" />
       <updated>1487761451542</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit from astudio">
+      <created>1487762036179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487762036179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1815" height="1216" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33553874" sideWeight="0.35270655" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33553874" sideWeight="0.35555556" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2074,11 +2081,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33553874" sideWeight="0.64729345" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33553874" sideWeight="0.64444447" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986766" sideWeight="0.4980057" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16752137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289225" sideWeight="0.4957265" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2088,7 +2096,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2107,7 +2114,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="first commit from within astudio" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit from within astudio" />
+    <MESSAGE value="second commit from astudio" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit from astudio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2127,10 +2135,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5246#5804#0" expanded="true" />
-            <element signature="e#5803#5804#0" expanded="true" />
-            <element signature="e#5841#6337#0" expanded="true" />
-            <element signature="e#6336#6337#0" expanded="true" />
+            <element signature="e#5245#5803#0" expanded="true" />
+            <element signature="e#5802#5803#0" expanded="true" />
+            <element signature="e#5840#6336#0" expanded="true" />
+            <element signature="e#6335#6336#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2172,10 +2180,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5246#5804#0" expanded="true" />
-            <element signature="e#5803#5804#0" expanded="true" />
-            <element signature="e#5841#6337#0" expanded="true" />
-            <element signature="e#6336#6337#0" expanded="true" />
+            <element signature="e#5245#5803#0" expanded="true" />
+            <element signature="e#5802#5803#0" expanded="true" />
+            <element signature="e#5840#6336#0" expanded="true" />
+            <element signature="e#6335#6336#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2217,10 +2225,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5246#5804#0" expanded="true" />
-            <element signature="e#5803#5804#0" expanded="true" />
-            <element signature="e#5841#6337#0" expanded="true" />
-            <element signature="e#6336#6337#0" expanded="true" />
+            <element signature="e#5245#5803#0" expanded="true" />
+            <element signature="e#5802#5803#0" expanded="true" />
+            <element signature="e#5840#6336#0" expanded="true" />
+            <element signature="e#6335#6336#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2319,13 +2327,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kipsap/jshipbattle/ShootActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="406" column="60" selection-start-line="406" selection-start-column="60" selection-end-line="406" selection-end-column="60" />
+        <state relative-caret-position="166">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
           <folding>
-            <element signature="e#5246#5804#0" expanded="true" />
-            <element signature="e#5803#5804#0" expanded="true" />
-            <element signature="e#5841#6337#0" expanded="true" />
-            <element signature="e#6336#6337#0" expanded="true" />
+            <element signature="e#5245#5803#0" expanded="true" />
+            <element signature="e#5802#5803#0" expanded="true" />
+            <element signature="e#5840#6336#0" expanded="true" />
+            <element signature="e#6335#6336#0" expanded="true" />
           </folding>
         </state>
       </provider>

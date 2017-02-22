@@ -63,7 +63,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	private static final int DELAY = 120000; //standaard time-out scherm: 2 minuten
     private static final int DIALOG1_KEY = 1; //waiting while getting fleet history
 	
-	int defTimeOut, aantalSchotenVandaag;
+	int defTimeOut, iNumberOfShotsToday;
 	int shipdirectionsUser1, shipdirectionsUser2, myShipdirections, oppShipdirections;
 	int iCrossHair, gamestate, sunkship, _myFleetDim, _oppFleetDim, adOrUnderBannerHeight;
 	int screenWidth, screenHeight, screenMin, screenMax;
@@ -271,7 +271,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 		
 		Calendar nu = Calendar.getInstance();
 		String dayPrefName = currentUsr +"&shots&" + nu.get(Calendar.YEAR) + "&" + (nu.get(Calendar.MONTH) + 1) + "&" + nu.get(Calendar.DAY_OF_MONTH);
-		aantalSchotenVandaag = sharedPrefs.getInt(dayPrefName, 0);	
+		iNumberOfShotsToday = sharedPrefs.getInt(dayPrefName, 0);
 		
 		myName = (TextView) findViewById(R.id.myName);
 		hisName = (TextView) findViewById(R.id.oppName);	
@@ -1251,15 +1251,14 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 			drawScreen(); //kruisjes evt hertekenen
 			// nobody WON here ..
 			
-			aantalSchotenVandaag++;
+			iNumberOfShotsToday++;
 			Calendar nu = Calendar.getInstance();		
 			String dayPrefName = currentUsr +"&shots&" + nu.get(Calendar.YEAR) + "&" + (nu.get(Calendar.MONTH) + 1) + "&" + nu.get(Calendar.DAY_OF_MONTH);
 			SharedPreferences.Editor editor;
 			editor = sharedPrefs.edit();
-	    	editor.putInt(dayPrefName, aantalSchotenVandaag);
+	    	editor.putInt(dayPrefName, iNumberOfShotsToday);
 	    	editor.commit();
-	    	//Toast.makeText(context, "number of shots today: " + aantalSchotenVandaag, Toast.LENGTH_SHORT).show();
-	    	if (aantalSchotenVandaag % 50 == 49)
+	    	if (iNumberOfShotsToday % 50 == 49)
 	    	{
 	    		if (!didArating)
 	    		{
