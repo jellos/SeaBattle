@@ -334,7 +334,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	 
 	 private void drawScreen()
 	 {	 	   	 
-	   	 int zichtbaarDeelMyFleetIngeklapt = _myFleetDim/14; //7
+	   	 int zichtbaarDeelMyFleetIngeklapt = _myFleetDim/14;
 	   	 initLLwidth = (_myFleetDim * 5/4);
 		
 		 LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(_oppFleetDim, _oppFleetDim);
