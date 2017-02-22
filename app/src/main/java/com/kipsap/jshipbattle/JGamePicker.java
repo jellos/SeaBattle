@@ -82,7 +82,7 @@ public class JGamePicker extends FragmentActivity {
 
     private RelativeLayout rootView;
 
-    private static final String TAG = "com.kipsap.jshipbattle";
+    private static final String TAG_SHIPBATTLE = "com.kipsap.jshipbattle";
     IabHelper mHelper;
     IabHelper.OnIabPurchaseFinishedListener mPremiumAppBoughtListener;
     IabHelper.QueryInventoryFinishedListener mReceivedInventoryListener;
@@ -109,7 +109,7 @@ public class JGamePicker extends FragmentActivity {
                     //Toast.makeText(JGamePicker.this, "Purchase failure ...", Toast.LENGTH_SHORT).show();
                     return;
                 } else if (purchase.getSku().equals(JConstants.SKU_PREMIUM_APP)) {
-                    Log.d(TAG, "In-app Billing: purchase finished, premium app bought!");
+                    Log.d(TAG_SHIPBATTLE, "In-app Billing: purchase finished, premium app bought!");
                     mHelper.queryInventoryAsync(mReceivedInventoryListener);
                 }
             }
@@ -171,10 +171,10 @@ public class JGamePicker extends FragmentActivity {
             public void onIabSetupFinished(IabResult result) {
                 if (!result.isSuccess()) {
                     bInAppBilling = false;
-                    Log.d(TAG, "In-app Billing setup failed: " + result);
+                    Log.d(TAG_SHIPBATTLE, "In-app Billing setup failed: " + result);
                 } else {
                     bInAppBilling = true;
-                    Log.d(TAG, "In-app Billing is set up OK");
+                    Log.d(TAG_SHIPBATTLE, "In-app Billing is set up OK");
                 }
                 mHelper.queryInventoryAsync(mReceivedInventoryListener);
             }

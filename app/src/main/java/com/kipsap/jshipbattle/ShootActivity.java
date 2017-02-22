@@ -56,7 +56,7 @@ import com.kipsap.jshipbattle.util.Purchase;
 public class ShootActivity extends FragmentActivity implements AnimationListener {
 
     final Context context = this;
-    private static final String TAG = "com.kipsap.jshipbattle";
+    private static final String TAG_SHIPBATTLE = "com.kipsap.jshipbattle";
 	final int MAX_HITS = 21;
 	private OpponentsFleet _oppFleet;
 	private MyFleet _myFleet;
@@ -138,12 +138,12 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	       	        if (!result.isSuccess())
 	       	        {
 	       	        	bInAppBilling = false;
-	       	            Log.d(TAG, "In-app Billing setup failed: " + result);
+	       	            Log.d(TAG_SHIPBATTLE, "In-app Billing setup failed: " + result);
 	       	        }
 	       	        else
 	       	        {
 	       	        	bInAppBilling = true;
-	        	        Log.d(TAG, "In-app Billing is set up OK");
+	        	        Log.d(TAG_SHIPBATTLE, "In-app Billing is set up OK");
 	       	        }
 	       	        mHelper.queryInventoryAsync(mReceivedInventoryListener);
 			  }
@@ -161,7 +161,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	    		}      
 	    		else if (purchase.getSku().equals(JConstants.SKU_PREMIUM_APP))
 	    		{
-	    			Log.d(TAG, "In-app Billing: purchase finished, premium app bought!");
+	    			Log.d(TAG_SHIPBATTLE, "In-app Billing: purchase finished, premium app bought!");
 	    			mHelper.queryInventoryAsync(mReceivedInventoryListener);	    			
 	    		}		      
 	    	}
