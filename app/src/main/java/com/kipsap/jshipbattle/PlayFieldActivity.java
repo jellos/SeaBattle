@@ -26,7 +26,7 @@ import android.widget.Toast;
 
 public class PlayFieldActivity extends Activity {
 	
-	private SetupPlayField _myField;	
+	private SetupPlayField _myField;
 	String currentUsr, currentOpp, originalInviter;
 	long shipboardUser1, shipboardUser2, myShipboard, gameID;
 	int shipdirectionsUser1, shipdirectionsUser2, myShipdirections;
@@ -169,12 +169,7 @@ public class PlayFieldActivity extends Activity {
 		{
 		case JConstants.RESULT_OK:
 			// aok
-			//_myField.gameUpdateResultSuccessful(true);	//doet niks		
-			//Intent resultIntent = new Intent();		
-			//resultIntent.putExtra("somethingChanged", true);
-			//setResult(Activity.RESULT_OK, resultIntent);
 			finish();
-			
 			break;
 		case JConstants.RESULT_NOT_OK:
 			// game update could not be sent to server ... DO SOMETHING
@@ -213,10 +208,6 @@ public class PlayFieldActivity extends Activity {
         	myShipboard = shipboardUser2;
         	myShipdirections = shipdirectionsUser2;  
         }
-        else
-        {
-        	System.out.println("No way");
-        }
 	}    
 	
 	@Override
@@ -234,10 +225,6 @@ public class PlayFieldActivity extends Activity {
 		{
 			shipboardUser2 = myShipboard;
 			shipdirectionsUser2 = myShipdirections;
-		}
-		else
-		{
-			System.out.println("NEIN");
 		}
 		
 		outState.putLong("shipboardUser1", shipboardUser1);
