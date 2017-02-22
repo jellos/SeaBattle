@@ -351,7 +351,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	   	 lp3.gravity = Gravity.CENTER_VERTICAL;
 	   	_screenTexts.setLayoutParams(lp3);
 	   	
-	   	LinearLayout.LayoutParams lp4 = new LinearLayout.LayoutParams(_myFleetDim/4, _myFleetDim); // 4 knopjes nu
+	   	LinearLayout.LayoutParams lp4 = new LinearLayout.LayoutParams(_myFleetDim/4, _myFleetDim); // 4 buttons
 	   	lp4.leftMargin = (bMyFleetVisible ? 0 : ((int) (-1 * initLLwidth) + zichtbaarDeelMyFleetIngeklapt));	
 	   	_knopjeszwik.setLayoutParams(lp4);
 	   	
