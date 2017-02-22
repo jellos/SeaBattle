@@ -65,7 +65,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	
 	int defTimeOut, aantalSchotenVandaag;
 	int shipdirectionsUser1, shipdirectionsUser2, myShipdirections, oppShipdirections;
-	int crossh, gamestate, sunkship, _myFleetDim, _oppFleetDim, adOrUnderBannerHeight;
+	int iCrossHair, gamestate, sunkship, _myFleetDim, _oppFleetDim, adOrUnderBannerHeight;
 	int screenWidth, screenHeight, screenMin, screenMax;
 	int soundBOEM, soundPLONS, soundFALLING, soundFALLINGBOEM, soundFALLINGPLONS, 
 		soundBOEMBUBBEL, soundFALLINGBOEMBUBBEL, soundTick, soundKNALFALLING;
@@ -405,7 +405,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 			opphits2 = savedInstanceState.getLong("opphits2");
 			myhits1 = savedInstanceState.getLong("myhits1");
 			myhits2 = savedInstanceState.getLong("myhits2");
-			crossh = savedInstanceState.getInt("crosshair");
+			iCrossHair = savedInstanceState.getInt("crosshair");
 			originalInviter = savedInstanceState.getString("originalInviter");
 			originalInvitee = savedInstanceState.getString("originalInvitee");
 			myTurn = savedInstanceState.getBoolean("myTurn");					
@@ -430,7 +430,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 		opphits2 = _oppFleet.getHits2();
 		myhits1 = _myFleet.getHits1();
 		myhits2 = _myFleet.getHits2();
-		crossh = _oppFleet.getCrossHair();	
+		iCrossHair = _oppFleet.getCrossHair();
 				
 		outState.putString("currentUsr", currentUsr);
 		outState.putString("currentOpp", currentOpp);
@@ -440,7 +440,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 		outState.putLong("opphits2", opphits2);
 		outState.putLong("myhits1", myhits1);
 		outState.putLong("myhits2", myhits2);
-		outState.putInt("crosshair", crossh);
+		outState.putInt("crosshair", iCrossHair);
 		outState.putBoolean("myTurn", myTurn);
 		outState.putInt("gamestate", gamestate);
 		outState.putBoolean("gameIsOver", gameIsOver);
