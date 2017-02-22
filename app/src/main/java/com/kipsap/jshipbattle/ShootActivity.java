@@ -5,8 +5,6 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.app.FragmentActivity;
 
-//test
-
 import java.util.Calendar;
 import java.util.Timer;
 import java.util.TimerTask;
@@ -71,7 +69,7 @@ public class ShootActivity extends FragmentActivity implements AnimationListener
 	int screenWidth, screenHeight, screenMin, screenMax;
 	int soundBOEM, soundPLONS, soundFALLING, soundFALLINGBOEM, soundFALLINGPLONS, 
 		soundBOEMBUBBEL, soundFALLINGBOEMBUBBEL, soundTick, soundKNALFALLING;
-	int hisFleetStrength, myFleetStrength, hisNumberOfShots, myNumberOfShots;
+	int hisNumberOfShots, myNumberOfShots;
     int scoreInFavor, scoreAgainst, oppLastShot, initLLwidth, themeID, styleID;
     
     long shipboardUser1, shipboardUser2, myShipboard, oppShipboard;
