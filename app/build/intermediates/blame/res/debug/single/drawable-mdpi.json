@@ -1,0 +1,1846 @@
+[
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b5_ver_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b5_ver_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_swamp.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_swamp.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\screens_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\screens_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ca.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ca.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ug.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ug.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gf.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gf.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_in.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_in.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs13.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs13.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_rematch_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_rematch_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ad.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ad.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cl.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cl.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_standard_off_client.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_resign_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_resign_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_et.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_et.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_disabled_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_disabled_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_as.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_as.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_fo.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_fo.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\slide_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\slide_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b3_hor_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b3_hor_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_disabled_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_disabled_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_kz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_kz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs01.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs01.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ir.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ir.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gu.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gu.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favorite.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\favorite.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis5.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis5.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_resign.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_resign.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b2_ver.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b2_ver.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_rs.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_rs.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b5_hor.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b5_hor.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tl.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tl.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shuffle_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\shuffle_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stars.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\stars.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_add_friend.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_add_friend.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\maprand_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\maprand_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_polar.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_polar.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ao.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ao.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\overboot.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\overboot.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shipbattle_new.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\shipbattle_new.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_qq.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_qq.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sy.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sy.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refresh_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_low_border_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_low_border_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ch.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ch.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\premium_banner.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\premium_banner.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shuffle.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\shuffle.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_th.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_th.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\explo2_gray.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\explo2_gray.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs21.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs21.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_add_friend_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_add_friend_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refreshing_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refreshing_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_aw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_aw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\miss_brown.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\miss_brown.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_jm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_jm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_nr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_nr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gy.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gy.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stats_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\stats_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\radar.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\radar.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ye.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ye.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_no_logo_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_no_logo_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gb.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gb.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_kg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_kg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loep_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\loep_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs17.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs17.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_dj.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_dj.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_uy.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_uy.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_md.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_md.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ml.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ml.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis2.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis2.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sc.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sc.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stats_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\stats_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\top25_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\top25_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_me.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_me.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_volcano_mini.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_volcano_mini.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_half_green.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_half_green.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_do.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_do.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ht.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ht.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\yellow_light.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\yellow_light.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tellertjes.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\tellertjes.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_uz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_uz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cd.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cd.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_add_friend_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_add_friend_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_poisoned_sea.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_poisoned_sea.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_rematch_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_rematch_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs08.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs08.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ro.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ro.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_kr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_kr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bj.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bj.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tt.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tt.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_button_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\menu_button_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gt.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gt.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_hk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_hk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_id.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_id.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_swamp_mini.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_swamp_mini.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_orange.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_orange.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_kw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_kw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fire_on_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fire_on_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_co.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_co.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\underbanner_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\underbanner_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tellertjes_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\tellertjes_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_us.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_us.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\settings_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b2_ver_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b2_ver_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history_round_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history_round_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_eh.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_eh.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_re.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_re.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs00.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs00.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bt.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bt.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_br.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_br.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\settings_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ck.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ck.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs10.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs10.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_polar_mini.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_polar_mini.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs07.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs07.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\slide_back.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\slide_back.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\overboot_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\overboot_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_resign_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_resign_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_resign_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_resign_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis1.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis1.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_extra_high_border_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_extra_high_border_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_zm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_zm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_hr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_hr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_unknown.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_unknown.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\top25.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\top25.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\slide_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\slide_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b2_hor.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b2_hor.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\world.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\world.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ar.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ar.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_half.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_half.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ni.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ni.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b5_hor_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b5_hor_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sv.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sv.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b4_hor_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b4_hor_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_add_friend_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_add_friend_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_newmessage_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_newmessage_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\underbanner.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\underbanner.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_send_chat.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\menu_send_chat.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_dk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_dk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stats_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\stats_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_li.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_li.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ng.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ng.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_lu.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_lu.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ve.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ve.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs05.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs05.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_button_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\menu_button_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\crosshair3.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\crosshair3.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_low_border_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_low_border_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_am.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_am.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_kp.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_kp.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_fr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_fr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shuffle_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\shuffle_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pl.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pl.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_jp.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_jp.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_fk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_fk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_at.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_at.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs15.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs15.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b2_hor_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b2_hor_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hold_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\hold_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tellertjes_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\tellertjes_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b3_ver_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b3_ver_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_by.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_by.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_lb.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_lb.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_disabled.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_disabled.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loep_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\loep_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background_logo.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\background_logo.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fire_on.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fire_on.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b4_ver_sunk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b4_ver_sunk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\green_won.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\green_won.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\screens.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\screens.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_nz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_nz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_se.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_se.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_er.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_er.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\underbanner_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\underbanner_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ba.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ba.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis6.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis6.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favorite_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\favorite_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_low_border.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_low_border.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hold_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\hold_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_aq.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_aq.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cy.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cy.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_nl.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_nl.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_button.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\menu_button.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_de.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_de.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pt.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pt.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favorite_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\favorite_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_small_off_client.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_newmessage.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_newmessage.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history_round_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history_round_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_km.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_km.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis7.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis7.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fire_on_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fire_on_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\grijs.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\grijs.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bh.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bh.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b3_hor.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b3_hor.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_tall_off_client.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mu.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mu.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gd.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gd.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fire_on_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fire_on_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs11.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs11.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_il.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_il.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_eg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_eg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_za.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_za.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b5_ver.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b5_ver.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sa.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sa.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history_round_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history_round_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_hu.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_hu.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ie.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ie.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refreshing_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refreshing_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_au.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_au.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\plus_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\plus_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tc.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tc.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ss.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ss.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pe.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pe.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\lose.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\lose.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_af.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_af.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bo.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bo.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis3.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis3.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs18.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs18.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatnotif.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatnotif.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ua.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ua.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs19.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs19.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs20.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs20.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ec.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ec.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kruis4.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\kruis4.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\miss_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\miss_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\top25_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\top25_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_be.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_be.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ne.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ne.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cu.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cu.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_lk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_lk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b4_ver.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b4_ver.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_it.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_it.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_np.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_np.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ke.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ke.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shuffle_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\shuffle_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_so.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_so.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs03.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs03.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mx.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mx.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_fi.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_fi.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_extra_high_border_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_extra_high_border_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_half_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_half_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\settings_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_hn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_hn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_vg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_vg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favorite_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\favorite_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\green_light.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\green_light.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs02.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs02.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_zw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_zw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_rematch.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_rematch.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_wf.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_wf.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gh.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gh.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hold_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\hold_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\slide_back_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\slide_back_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ru.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ru.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_is.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_is.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_menu.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\menu_menu.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bd.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bd.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\plus_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\plus_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_io.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_io.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b4_hor.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b4_hor.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_qa.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_qa.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_half_orange.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_half_orange.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\screens_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\screens_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs12.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs12.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mt.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mt.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ae.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ae.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stats.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\stats.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs14.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs14.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ag.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ag.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_poisoned_sea_mini.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_poisoned_sea_mini.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs09.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs09.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tellertjes_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\tellertjes_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_td.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_td.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_rematch_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_rematch_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_si.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_si.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\plus.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_la.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_la.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_low_border_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_low_border_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_kh.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_kh.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_no.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_no.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\explo2.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\explo2.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\overboot_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\overboot_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs16.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs16.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\history.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\history.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_iq.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_iq.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ly.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ly.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_vn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_vn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refresh_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_es.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_es.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notif_ch.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\notif_ch.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbackground_green.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbackground_green.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\plus_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\plus_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_premium.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_premium.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_fj.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_fj.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refresh_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go_disabled_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go_disabled_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tf.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tf.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\red_lost.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\red_lost.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_newmessage_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_newmessage_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\screens_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\screens_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ph.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ph.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_al.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_al.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_dz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_dz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ai.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ai.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\win.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\win.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_no_logo_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_no_logo_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_caribbean.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_caribbean.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_rw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_rw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs04.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs04.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\b3_ver.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\b3_ver.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\slide.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\slide.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_lv.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_lv.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mc.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mc.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_my.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_my.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_cg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_cg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\explo_green.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\explo_green.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_no_logo_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_no_logo_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mm.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mm.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gl.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gl.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sd.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sd.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\overboot_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\overboot_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ma.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ma.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_lt.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_lt.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_volcano.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_volcano.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_medium_off_client.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bn.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bn.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_mo.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_mo.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_jo.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_jo.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map_caribbean_mini.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\map_caribbean_mini.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refreshing_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refreshing_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\chatbutton_newmessage_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\chatbutton_newmessage_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_extra_high_border_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_extra_high_border_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ee.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ee.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bz.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bz.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\go.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\go.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fs06.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\fs06.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\miss_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\miss_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\underbanner_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\underbanner_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\nothing.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\nothing.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_az.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_az.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sr.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sr.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_om.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_om.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_high_border_no_logo.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_high_border_no_logo.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bs.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bs.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_pa.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_pa.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_backgr_extra_high_border.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_backgr_extra_high_border.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_ship_icon.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\new_ship_icon.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_an.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_an.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\miss.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\miss.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_py.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_py.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\slide_back_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\slide_back_white.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loep.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\loep.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_ge.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_ge.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_gq.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_gq.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_sk.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_sk.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refreshing.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\refreshing.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_bg.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_bg.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hold.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\hold.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loep_black.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\loep_black.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_button_brush.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\menu_button_brush.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\land_tw.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\land_tw.png"
+    },
+    {
+        "merged": "D:\\Studio\\PROJECT\\ShipBattle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\top25_white.png",
+        "source": "D:\\Studio\\PROJECT\\ShipBattle\\app\\src\\main\\res\\drawable-mdpi\\top25_white.png"
+    }
+]

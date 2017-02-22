@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/go_premium"
+    android:gravity="center|center_horizontal"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="20dp"
+        android:gravity="center|center_vertical"
+        android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textWelcomeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:text="@string/upgrade_premium"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+        
+
+    <TextView
+        android:id="@+id/textFeatures1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dip"
+        android:gravity="left"
+        android:text="@string/maps_themes"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    
+    <TextView
+        android:id="@+id/textFeatures2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dip"
+        android:gravity="left"
+        android:text="@string/no_ads"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    
+    <TextView
+        android:id="@+id/textFeatures3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dip"
+        android:gravity="left"
+        android:text="@string/unlimited_chat"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    
+    <TextView
+        android:id="@+id/textFeatures4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dip"
+        android:gravity="left"
+        android:text="@string/view_last_fleets"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    
+    <TextView
+        android:id="@+id/textFeatures5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dip"
+        android:gravity="left"
+        android:text="@string/randomize_fleet"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+    
+    
+    
+    </LinearLayout>
+    
+</LinearLayout>

@@ -1,0 +1,135 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* GoogleAdMobAdsSdkAndroid-6.4.1\
+* GoogleAdMobAdsSdkAndroid-6.4.1\Add-ons\
+* GoogleAdMobAdsSdkAndroid-6.4.1\Add-ons\GoogleAnalyticsAndroid_2.0beta5\
+* GoogleAdMobAdsSdkAndroid-6.4.1\Add-ons\GoogleAnalyticsAndroid_2.0beta5\Changelog.txt
+* GoogleAdMobAdsSdkAndroid-6.4.1\Add-ons\GoogleAnalyticsAndroid_2.0beta5\Readme.txt
+* GoogleAdMobAdsSdkAndroid-6.4.1\Add-ons\GoogleAnalyticsAndroid_2.0beta5\javadocs.zip
+* GoogleAdMobAdsSdkAndroid-6.4.1\Add-ons\GoogleAnalyticsAndroid_2.0beta5\libGoogleAnalyticsV2.jar
+* GoogleAdMobAdsSdkAndroid-6.4.1\GoogleAdMobAdsSdk-6.4.1.jar
+* GoogleAdMobAdsSdkAndroid-6.4.1\README.txt
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\allclasses-frame.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\allclasses-noframe.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\Ad.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\AdListener.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\AdRequest.ErrorCode.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\AdRequest.Gender.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\AdRequest.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\AdSize.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\AdView.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\InterstitialAd.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\EmptyNetworkExtras.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationAdRequest.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationAdapter.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationBannerAdapter.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationBannerListener.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationInterstitialAdapter.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationInterstitialListener.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationServerParameters.MappingException.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\MediationServerParameters.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\NetworkExtras.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\AdMobAdapter.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\AdMobAdapterExtras.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\AdMobAdapterServerParameters.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\package-frame.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\package-summary.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\admob\package-tree.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEvent.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventBanner.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventBannerListener.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventExtras.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventInterstitial.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventInterstitialListener.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventListener.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\CustomEventServerParameters.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\package-frame.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\package-summary.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\customevent\package-tree.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\package-frame.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\package-summary.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\mediation\package-tree.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\package-frame.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\package-summary.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\com\google\ads\package-tree.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\constant-values.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\deprecated-list.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\help-doc.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\index-all.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\index.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\overview-frame.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\overview-summary.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\overview-tree.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\package-list
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\resources\
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\resources\background.gif
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\resources\tab.gif
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\resources\titlebar.gif
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\resources\titlebar_end.gif
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\serialized-form.html
+* GoogleAdMobAdsSdkAndroid-6.4.1\docs\stylesheet.css
+* ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar
+* proguard-project.txt
+* releas\
+* releas\rev 107 (black, paid)\
+* releas\rev 107 (black, paid)\ShipBattle.apk
+* releas\rev 109 (white, paid)\
+* releas\rev 109 (white, paid)\ShipBattle.apk
+* releas\rev 41\
+* releas\rev 41\ShipBattle.apk
+* releas\rev 45\
+* releas\rev 45\ShipBattle.apk
+* releas\rev 47\
+* releas\rev 47\ShipBattle.apk
+* releas\rev 48\
+* releas\rev 48\ShipBattle.apk
+* releas\rev 50\
+* releas\rev 50\ShipBattle.apk
+* releas\rev 51\
+* releas\rev 51\ShipBattle.apk
+* releas\rev 60\
+* releas\rev 60\ShipBattle.apk
+* releas\rev 63\
+* releas\rev 63\ShipBattle.apk
+* releas\rev 66\
+* releas\rev 66\ShipBattle.apk
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\android\vending\billing\IInAppBillingService.aidl => app\src\main\aidl\com\android\vending\billing\IInAppBillingService.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ship Battle</string>    
+    
+    <string name="username">Gebruikersnaam:</string>
+    <string name="password">Wachtwoord:</string>
+    <string name="yourcountry">Land van herkomst:</string>
+    <string name="friendcolon">Vriend:</string>
+    <string name="choosepasswordcolon">Kies een wachtwoord:</string>
+    <string name="repeatpasswordcolon">Herhaal wachtwoord:</string>   
+    <string name="currentpasswordcolon">Huidig wachtwoord:</string> 
+    <string name="choosenewpasswordcolon">Kies een nieuw wachtwoord:</string>
+    <string name="emailaddresscolon">Email adres:</string>
+    <string name="changepassword">Wachtwoord veranderen</string>
+    <string name="choosepassword">kies wachtwoord</string>
+    <string name="repeatpassword">herhaal wachtwoord</string>   
+    <string name="emailaddress">email adres</string>
+    
+    <string name="service_label">Ship Battle</string>
+    
+    <string name="hint_username">gebruikersnaam</string>    
+    <string name="hint_password">wachtwoord</string>
+    <string name="hint_currentpassword">huidig wachtwoord</string>
+    <string name="hint_enterpartofname">vul (een deel van) een naam in</string>
+    <string name="hint_pickausername">kies een gebruikersnaam</string>
+    <string name="hint_choosenewpassword">kies een nieuw wachtwoord</string>
+    
+    <string name="msg_selectcountry">Selecteer je land a.u.b.</string>
+    <string name="msg_usernamecannotbeempty">Gebruikersnaam mag niet leeg zijn</string>    
+    <string name="msg_passwordcannotbeempty">Wachtwoord mag niet leeg zijn</string> 
+    <string name="msg_loggedin">Je bent ingelogd</string>
+    <string name="msg_unknownuser">Gebruiker is onbekend</string>
+    <string name="msg_incorrectpassword">Het ingevoerde wachtwoord is niet correct</string>
+    <string name="msg_incorrectversion">A.u.b. de app upgraden naar de nieuwste versie</string>
+    <string name="msg_invalidrequest">Er gebeuren rare dingen (invalid request)</string>
+    <string name="msg_nocommunication">Kan niet communiceren met de game server, controleer de internetverbinding</string>
+    <string name="msg_thirtytwocharacters">Gebruikersnaam mag niet langer zijn dan 32 karakters</string>
+    <string name="msg_twocharacters">Gebruikersnaam moet ten minste 2 karakters bevatten</string>
+    <string name="msg_notavalidemailaddress">Geen geldig emailadres</string>
+    <string name="msg_samepasswordtwice">A.u.b. tweemaal hetzelfde wachtwoord invoeren</string>
+    <string name="msg_nofunnystuff">Gebruikersnaam mag niet de tekens &amp;, \' of # bevatten</string>
+    <string name="msg_noconnection">Geen verbinding</string>
+    <string name="msg_passwordsuccessfullychanged">Je wachtwoord is gewijzigd</string>
+    
+    <string name="msg_signupsuccess">Succesvol aangemeld</string>
+    <string name="msg_usernametaken">Deze gebruikersnaam bestaat al</string>
+    <string name="msg_generalerror">Generieke error</string>
+    
+    <string name="toast_loggingin">Inloggen ...</string>
+    <string name="toast_signingup">Aanmelden ...</string>
+    <string name="toast_loggingoff">Uitloggen ...</string>
+    <string name="toast_resigning">Opgeven ..</string>
+    <string name="toast_invitationsuccessful">Uitnodiging verstuurd</string>
+    <string name="toast_alreadygamerunning">Je hebt al een lopend spel of uitnodiging met deze speler</string>
+    <string name="toast_cannotinviteyourself">Het is niet mogelijk jezelf uit te nodigen</string>
+    <string name="toast_playernonexistent">Onbekende speler</string>
+    <string name="toast_friendadded">Vriend toegevoegd</string>
+    <string name="toast_friendremoved">Vriend verwijderd</string>
+    <string name="toast_resignnotpossible">Het is niet mogelijk om op te geven</string>
+    <string name="toast_someerror">Er is een fout voorgevallen</string>
+    <string name="toast_notyourturn">Je bent niet aan de beurt</string>
+    <string name="toast_alreadyshothere">Op deze plek is al geschoten ...</string>    
+	<string name="toast_minimum2characters">A.u.b. minimaal 2 karakters invoeren</string>
+	<string name="toast_nosuchusersfound">Geen spelers gevonden ...</string>
+    <string name="toast_chat_limit_exceeded">Chat limiet overschreden!</string>
+    <string name="toast_cannot_enter_funny_stuff">Je bericht mag niet de tekens &amp;, \' of # bevatten</string>
+    
+    <string name="ftoast_yousankaship">Je hebt %s vernietigd!</string>
+    <string name="ftoast_youlostaship">Je hebt %s verloren...</string>
+    
+    <string name="ftoast_addingfriend">%s wordt aan je vriendenlijst toegevoegd</string> 
+    <string name="ftoast_opponentresigned">%s geeft het op, je hebt gewonnen!</string>
+    <string name="fpick_youwon">Je hebt van %s gewonnen!</string>
+    <string name="fpick_opponentbeatyou">%s heeft gewonnen ...</string>
+    <string name="fpick_youresigned">Je hebt opgegeven tegen %s</string>
+    <string name="fpick_opponentresigned">%s heeft opgegeven</string>
+    <string name="fpick_pendinginvitation">Openstaande uitnodiging aan %s</string>
+    <string name="fpick_setupyourfleet">Plaats je vloot tegen %s</string>
+    <string name="fpick_waitingfor">Wacht tot %s klaar is</string>
+    <string name="fpick_yourturn">Jouw beurt tegen %s</string>
+    <string name="fpick_opponentsturn">%s is aan de beurt</string>
+    <string name="fpick_invitationfrom">Uitnodiging van %s</string>
+    <string name="fdialog_suretoaddfriend">Wil je %s aan je vriendenlijst toevoegen?</string>
+    <string name="dialog_areyousure_to_start">Weet je zeker dat je het spel wilt starten met deze vloot?</string>
+    
+    <string name="fdialog_youwonin">Je hebt gewonnen in %d schoten!</string>
+    <string name="fdialog_suretoresign">Weet je zeker dat je wilt opgeven tegen %s?</string>
+    <string name="dialog_youlost">Je hebt verloren ...</string>
+    <string name="dialog_yourfriends">Vrienden:</string> 
+    <string name="dialog_welcometoshipbattle">Welkom bij Ship Battle</string>
+    <string name="dialog_welcomeuitleg1">&#8226; Meld je aan voor een gratis account.</string>
+    <string name="dialog_welcomeuitleg2">&#8226; Je email adres zal alleen gebruikt worden voor het geval je je wachtwoord wilt resetten.</string>
+    <string name="dialog_welcomeuitleg3">&#8226; Ship Battle heeft ranglijsten per land, in het "Aanmelden" scherm kun je daarvoor je land van herkomst instellen.</string>
+    <string name="dialog_gameoverviewscreen">Spellen-overzichtsscherm</string>    
+    <string name="dialog_gameoverviewscreen_uitleg1">&#8226; In dit scherm kun je de lopende en recent afgeronde spellen zien. </string>
+    <string name="dialog_gameoverviewscreen_uitleg2">&#8226; Je kunt tegenstanders zoeken door op het vergrootglas te tikken.</string>
+    <string name="dialog_gameoverviewscreen_uitleg3">&#8226; Via het plus-teken kun je een nieuw spel starten tegen een vriend, een willekeurige tegenstander of de computer.</string>
+        
+    <string name="fbtn_send_player_game_invitation">Stuur %s een speluitnodiging</string>
+    <string name="fbtn_add_player_to_friends_list">Voeg %s toe aan vriendenlijst</string>
+    <string name="fremove_player_from_friends_list">Wil je %s verwijderen uit je vriendenlijst?</string>
+    <string name="btn_login">Inloggen</string>
+    <string name="btn_signup">Aanmelden</string>
+	<string name="btn_send_game_invitation">Speluitnodiging sturen</string>
+    <string name="btn_add_to_friends_list">Toevoegen aan vriendenlijst</string>    
+    <string name="btn_cancel">Annuleren</string>
+	<string name="btn_search">Zoek</string>
+    <string name="btn_accept">Accepteren</string>
+    <string name="btn_decline">Weigeren</string>
+    <string name="btn_yes">Ja</string>
+    <string name="btn_no">Nee</string>
+    <string name="btn_rematch">Nog een keer!</string>
+    <string name="btn_meh">Liever niet</string>
+    <string name="btn_newgame">Nieuw spel</string>
+    <string name="btn_findfriends">Spelers zoeken</string>
+    <string name="btn_settings">Instellingen</string>
+    <string name="btn_stats">Statistieken</string>
+    <string name="btn_change">Veranderen</string>
+    <string name="btn_yeah_sure">Ja, OK!</string>
+    <string name="btn_not_now">Nu even niet</string>
+    <string name="btn_buy_premium_version">Premium versie kopen</string>
+    <string name="map_colon">Map:</string>
+    <string name="theme_colon">Thema:</string>
+    
+    <string name="computer">Computer</string>
+    <string name="likeshipbattle">Wat vind je van Ship Battle?</string>
+    <string name="giveareview">Geef ons een beoordeling in de Play Store!</string>
+    
+    <string name="ship_battleship">het vliegdekschip</string>
+    <string name="ship_cruiser">de cruiser</string>
+    <string name="ship_frigate">een torpedobootjager</string>
+    <string name="ship_minesweeper">een onderzeeër</string>
+    
+    <string name="fsfleet_history">%s\'s vloothistorie</string>
+    <string name="fhas_no_fleet_history">%s heeft nog geen vloothistorie</string>
+    <string name="fnoti_opponentwaiting">%s heeft zijn/haar vloot geplaatst en wacht op jou</string>
+    <string name="fnoti_youlostvs">Je hebt verloren van %s</string>
+    <string name="ffnoti_openinvitation_with_rating">%1$s (rating: %2$s) nodigt je uit voor een spel Ship Battle</string>
+    <string name="ffnoti_openinvitation">%s nodigt je uit voor een spel Ship Battle</string>
+    <string name="fnoti_24hleft">Je hebt nog minder dan 24 uur de tijd tegen %s</string>
+    <string name="new_chat_message">Nieuw chatbericht</string>
+    
+    <string name="sett_sounds">Geluidseffecten</string>
+    <string name="sett_vibrations">Trillingen</string>
+    <string name="sett_notifications">Notificaties</string>
+    <string name="sett_random">Uitnodigingen ontvangen van willekeurige spelers</string>
+    
+    <string name="forgotpasswordsendemail">Wachtwoord vergeten? Stuur een email naar info@ship-battle.com</string>
+    <string name="selectacountry">selecteer land</string>
+    <string name="doubletap">Dubbel tikken verandert de orientatie van een schip</string>	
+    <string name="setup_yourfleet">Plaats je vloot tegen</string>
+    <string name="invite_player">Nodig speler uit:</string>
+    <string name="add_friends_list">Toevoegen aan vriendenlijst</string>
+	<string name="fplayerstats">%s\'s statistieken</string>
+    <string name="randomopponent">Willekeurige tegenstander</string>
+    <string name="ratingcolon">Rating:</string>
+    <string name="gameswoncolon">Gewonnen spellen:</string>
+    <string name="gameslostcolon">Verloren spellen:</string>
+    <string name="worldrankcolon">Positie wereldranglijst:</string>
+    <string name="nationalrankcolon">Positie nationale ranglijst:</string>
+    <string name="yournewratingcolon">Jouw nieuwe rating:</string>
+    <string name="opponentsnewratingcolon">%s\'s nieuwe rating:</string>
+    <string name="fyouwon_opponentresigned">Je hebt gewonnen omdat %s heeft opgegeven</string>
+    <string name="whatdoyouwanttodo">Wat wil je doen?</string>
+    
+    <string name="menu_logoff">Uitloggen</string>
+    <string name="menu_resign">Opgeven</string>
+    <string name="menu_rematch">Revanche</string>
+    <string name="menu_about">Over</string>
+    <string name="menu_game_rules">Spelregels</string>
+    <string name="menu_add_friend">Vriend toevoegen</string>
+    <string name="menu_buy_premium">Upgraden naar Premium</string>
+    
+    <string name="scorecolon">Score:</string>
+    <string name="shipbattlerules">Ship Battle Regels</string>
+    <string name="rules1">Het doel van dit spel is om de vloot van je tegenstander te vernietigen voordat hij/zij die van jou vernietigen kan. Nadat je je vloot geplaatst hebt, schiet je om en om op elkaars speelveld.</string>
+    <string name="rules2">Je vloot bestaat uit de volgende schepen:</string>
+    <string name="oneaircraftcarrier">1 vliegdekschip</string>
+    <string name="onecruiser">1 cruiser</string>
+    <string name="twodestroyers">2 torpedobootjagers</string>
+    <string name="threesubmarines">3 onderzeeërs</string>
+    <string name="rules3">Je hebt 72 uur de tijd om een schot te lossen. Je kunt zoveel spellen tegelijkertijd spelen als je wilt, alleen maar 1 spel tegelijkertijd tegen dezelfde tegenstander.</string>
+    <string name="rules4">Daag je vrienden of een willekeurig persoon wereldwijd uit voor een spel Ship Battle. Verdien een hogere rating door tegenstanders te verslaan. Kijk of je de top 25 van je land of zelfs wereldwijd kan halen.</string>
+    <string name="rules5">Veel plezier!</string>
+    
+    <string name="aboutshipbattle">Over Ship Battle</string>
+    <string name="developedbykipsapgames">Ship Battle is ontwikkeld door Kipsap Games.</string>
+    <string name="remarksemailthem">Als je opmerkingen of suggesties hebt ontvangen we deze graag via KipsapGames@gmail.com.</string>
+    <string name="followus">Volg ons op twitter: @KipsapGames</string>
+    <string name="toptwentyfivespace">Top 25 </string>
+    
+    <string name="upgrade_premium">Upgrade naar Ship Battle Premium!</string>
+    <string name="maps_themes">&#8226; Keuze uit 5 verschillende maps en 4 thema\'s</string>
+    <string name="no_ads">&#8226; Geen advertenties</string>
+    <string name="unlimited_chat">&#8226; Ongelimiteerd chatten</string>
+    <string name="view_last_fleets">&#8226; 5 laatste opstellingen van de tegenstander bekijken</string>
+    <string name="randomize_fleet">&#8226; Willekeurige opstellingen genereren</string>
+    
+</resources>

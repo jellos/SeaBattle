@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/RootView"   
+    android:background="@drawable/new_backgr_extra_high_border"
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center|center_vertical|top"
+        android:orientation="vertical" >
+
+	  	<com.kipsap.jshipbattle.SetupPlayField
+	        android:id="@+id/grid_view"	        
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+	</LinearLayout>
+    <LinearLayout
+       
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|center_vertical"        
+        android:orientation="vertical" >
+  	
+	    <TextView
+	        android:id="@+id/tvConfigureYourFleet"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="8dip"
+	        android:gravity="center"
+	        android:textColor="@color/background_blue"
+	        android:text="@string/setup_yourfleet"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	    <TextView
+	        android:id="@+id/tvDoubleTap"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="5dip"
+	        android:textColor="@color/background_blue"
+	        android:gravity="center"
+	        android:text="@string/doubletap" />
+
+	    <LinearLayout        
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center|center_vertical"
+	        android:layout_marginTop="15dp"        
+	        android:orientation="horizontal" >
+	        
+		    <ImageButton
+		        android:id="@+id/ibtnNewRandomConfig"
+		        android:layout_width="70dp"
+                android:layout_height="70dp"
+		        android:layout_marginRight="20dp"
+		        android:adjustViewBounds="true"
+		        android:background="@drawable/shuffle"
+		        android:maxWidth="140dp"
+		        android:scaleType="fitXY" />
+		    
+		     <ImageButton
+		         android:id="@+id/ibtnGo"
+		         android:layout_width="84dp"
+                 android:layout_height="84dp"                 
+		         android:adjustViewBounds="true"
+		         android:background="@drawable/go"
+		         android:scaleType="fitXY" />
+			       
+		     <ImageButton
+			       android:id="@+id/ibtnHistorie"
+			       android:layout_width="70dp"
+                   android:layout_height="70dp"
+                   android:layout_marginLeft="20dp"
+			       android:scaleType="fitXY"
+			       android:adjustViewBounds="true"
+			       android:background="@drawable/history"/> 
+		     		     		     
+		 </LinearLayout>
+	     	       
+  </LinearLayout>
+</LinearLayout>

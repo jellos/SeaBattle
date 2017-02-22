@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string name="aboutshipbattle">Acerca de Ship Battle</string>
+    <string name="add_friends_list">Agregar a la lista de amigos</string>
+    <string name="app_name">Ship Battle</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_add_to_friends_list">Agregar a la lista de amigos</string>
+    <string name="btn_buy_premium_version">Compre versión Premium</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="btn_decline">Rechazar</string>
+    <string name="btn_findfriends">Buscar jugadores</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_meh">No revancha</string>
+    <string name="btn_newgame">Nuevo juego</string>
+    <string name="btn_no">No</string>
+    <string name="btn_not_now">No ahora</string>
+    <string name="btn_rematch">Revancha!</string>
+    <string name="btn_search">Buscar</string>
+    <string name="btn_send_game_invitation">Enviar invitación juego</string>
+    <string name="btn_settings">Configuración</string>
+    <string name="btn_signup">Regístrese</string>
+    <string name="btn_stats">Estadísticas</string>
+    <string name="btn_yeah_sure">Sí, claro!</string>
+    <string name="btn_yes">Sí</string>
+    <string name="changepassword">Cambiar contraseña</string>
+    <string name="choosenewpasswordcolon">Elija una contraseña nueva:</string>
+    <string name="choosepassword">elegir contraseña</string>
+    <string name="choosepasswordcolon">Elegir contraseña:</string>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Una aplicación necesita que Android Wear se actualice."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Esta aplicación no se ejecutará hasta que actualices Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizar Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Habilitar servicios de Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Esta aplicación no funcionará si no habilitas los servicios de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Habilitar servicios de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitada por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Descargar servicios de Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descargar servicios de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicación requiere que se habiliten los servicios de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los servicios de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Una aplicación requiere la instalación de servicios de Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicación requiere una actualización de servicios de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error de servicios de Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconocido relacionado con los servicios de Google Play"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Esta aplicación no se ejecutará si no actualizas los servicios de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizar servicios de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="computer">Computador</string>
+    <string name="currentpasswordcolon">Contraseña actual:</string>
+    <string name="developedbykipsapgames">Ship Battle es desarrollado por Kipsap Games.</string>
+    <string name="dialog_areyousure_to_start">¿Está seguro de comenzar el juego con esta flota?</string>
+    <string name="dialog_gameoverviewscreen">Pantalla de juegos general</string>
+    <string name="dialog_gameoverviewscreen_uitleg1">• Esta pantalla mostrará su juegos activos y su juegos recientemente terminados.</string>
+    <string name="dialog_gameoverviewscreen_uitleg2">• Puedes buscar los oponentes punteando en la lupa.</string>
+    <string name="dialog_gameoverviewscreen_uitleg3">• Pulse en el signo más para iniciar un nuevo juego con un amigo, un oponente al azar o el computador.</string>
+    <string name="dialog_welcometoshipbattle">Bienvenido a Ship Battle</string>
+    <string name="dialog_welcomeuitleg1">• Por favor tome un momento para registrarse en una cuenta gratuita.</string>
+    <string name="dialog_welcomeuitleg2">• Tu dirección email sólo será utilizada en caso de que desea restablecer su contraseña.</string>
+    <string name="dialog_welcomeuitleg3">• Ship Battle utiliza clasificaciones basadas en su país de residencia, que también se puede introducir en la pantalla "Regístrese".</string>
+    <string name="dialog_youlost">Usted ha perdido ...</string>
+    <string name="dialog_yourfriends">Sus amigos:</string>
+    <string name="doubletap">Doble toque para cambiar la orientación de un barco</string>
+    <string name="emailaddress">dirección email</string>
+    <string name="emailaddresscolon">Dirección email:</string>
+    <string name="fbtn_add_player_to_friends_list">Agregar %s a la lista de amigos</string>
+    <string name="fbtn_send_player_game_invitation">Enviar una invitación de juego a %s</string>
+    <string name="fdialog_suretoaddfriend">¿Quieres agregar %s a tu lista de amigos?</string>
+    <string name="fdialog_suretoresign">¿Seguro que quieres renunciar contra %s?</string>
+    <string name="fdialog_youwonin">Usted ganó en %d tiros!</string>
+    <string name="ffnoti_openinvitation">%s te invita a jugar una partida de Ship Battle</string>
+    <string name="ffnoti_openinvitation_with_rating">%1$s (Índice: %2$s) te invita a jugar una partida de Ship Battle</string>
+    <string name="fhas_no_fleet_history">%s no tiene ninguna flota historia todavía</string>
+    <string name="fnoti_24hleft">Usted tiene menos de 24 horas restantes contra %s</string>
+    <string name="fnoti_opponentwaiting">%s se ha establecido su flota y te espera</string>
+    <string name="fnoti_youlostvs">Usted perdió contra %s</string>
+    <string name="followus">Síguenos en twitter: @KipsapGames</string>
+    <string name="forgotpasswordsendemail">¿Has olvidado tu contraseña? Enviar un email a info@ship-battle.com</string>
+    <string name="fpick_invitationfrom">Invitación de %s</string>
+    <string name="fpick_opponentbeatyou">%s te ha derrotado ...</string>
+    <string name="fpick_opponentresigned">%s ha renunciado</string>
+    <string name="fpick_opponentsturn">Es %s turno</string>
+    <string name="fpick_pendinginvitation">Pendiente invitación a %s</string>
+    <string name="fpick_setupyourfleet">Configure su flota contra %s</string>
+    <string name="fpick_waitingfor">Esperando a %s</string>
+    <string name="fpick_youresigned">Usted renunció contra %s</string>
+    <string name="fpick_yourturn">Su turno contra %s</string>
+    <string name="fpick_youwon">Usted ha ganado contra %s!</string>
+    <string name="fplayerstats">Estadísticas de %s</string>
+    <string name="fremove_player_from_friends_list">¿Eliminar %s desde la lista de amigos?</string>
+    <string name="friendcolon">Amigo:</string>
+    <string name="fsfleet_history">flota historia de %s</string>
+    <string name="ftoast_addingfriend">Agregando %s a la lista de amigos</string>
+    <string name="ftoast_opponentresigned">%s ha renunciado, usted ha ganado!</string>
+    <string name="ftoast_youlostaship">Usted ha perdido %s ...</string>
+    <string name="ftoast_yousankaship">Usted destruyó %s!</string>
+    <string name="fyouwon_opponentresigned">Ganaste porque %s renunció</string>
+    <string name="gameslostcolon">Juegos perdidos:</string>
+    <string name="gameswoncolon">Juegos ganados:</string>
+    <string name="giveareview">Danos tu opinión en el Play Store!</string>
+    <string name="hint_choosenewpassword">elija una contraseña nueva</string>
+    <string name="hint_currentpassword">contraseña actual</string>
+    <string name="hint_enterpartofname">entrar (parte de) un nombre</string>
+    <string name="hint_password">contraseña</string>
+    <string name="hint_pickausername">elegir un nombre de usuario</string>
+    <string name="hint_username">nombre de usuario</string>
+    <string name="invite_player">Invitar jugador:</string>
+    <string name="likeshipbattle">¿Te gusta Ship Battle?</string>
+    <string name="map_colon">Mapa:</string>
+    <string name="maps_themes">• Elección de los 5 mapas y 4 temas</string>
+    <string name="menu_about">Info</string>
+    <string name="menu_add_friend">Agregar Amigo</string>
+    <string name="menu_buy_premium">Mejorar a Premium</string>
+    <string name="menu_game_rules">Reglas del juego</string>
+    <string name="menu_logoff">Cerrar sesión</string>
+    <string name="menu_rematch">Revancha</string>
+    <string name="menu_resign">Renunciar</string>
+    <string name="msg_generalerror">Error general</string>
+    <string name="msg_incorrectpassword">La contraseña que ha introducido no es correcto</string>
+    <string name="msg_incorrectversion">Por favor, actualice la aplicación a la última versión</string>
+    <string name="msg_invalidrequest">Strange things happening, invalid request</string>
+    <string name="msg_loggedin">Usted has iniciado sesión</string>
+    <string name="msg_nocommunication">No se puede comunicar con el servidor del juego, por favor, comprueba tu conexión a Internet</string>
+    <string name="msg_noconnection">Sin conexión</string>
+    <string name="msg_nofunnystuff">Nombre de usuario no puede contener &amp;, \' o #</string>
+    <string name="msg_notavalidemailaddress">No es una dirección email válida</string>
+    <string name="msg_passwordcannotbeempty">La contraseña no puede estar vacía</string>
+    <string name="msg_passwordsuccessfullychanged">Su contraseña se ha cambiado con éxito</string>
+    <string name="msg_samepasswordtwice">Por favor, escriba la misma contraseña dos veces</string>
+    <string name="msg_selectcountry">Por favor, seleccione su país</string>
+    <string name="msg_signupsuccess">Ha registrado con éxito</string>
+    <string name="msg_thirtytwocharacters">Nombre de usuario no puede superar los 32 caracteres</string>
+    <string name="msg_twocharacters">Nombre de usuario tiene que contener al menos 2 caracteres</string>
+    <string name="msg_unknownuser">Usuario desconocido</string>
+    <string name="msg_usernamecannotbeempty">Nombre de usuario no puede estar vacío</string>
+    <string name="msg_usernametaken">Este nombre de usuario ya existe</string>
+    <string name="nationalrankcolon">Rango nacional:</string>
+    <string name="new_chat_message">Nuevo mensaje de chat</string>
+    <string name="no_ads">• No hay anuncios</string>
+    <string name="oneaircraftcarrier">1 portaaviones</string>
+    <string name="onecruiser">1 crucero</string>
+    <string name="opponentsnewratingcolon">%s nueva índice:</string>
+    <string name="password">Contraseña:</string>
+    <string name="randomize_fleet">• Aleatorizar su flota</string>
+    <string name="randomopponent">Oponente al azar</string>
+    <string name="ratingcolon">Índice:</string>
+    <string name="remarksemailthem">Si tiene comentarios o sugerencias, por favor envíelas a info@ship-battle.com.</string>
+    <string name="repeatpassword">repetir contraseña</string>
+    <string name="repeatpasswordcolon">Repetir contraseña:</string>
+    <string name="rules1">El objetivo de este juego es destruir la flota de tu oponente antes de que puedan destruir el tuyo. Después de haber configurado su flota, que se turnan para disparar a una location en el campo de juego de los demás.</string>
+    <string name="rules2">Su flota incluye los siguientes buques:</string>
+    <string name="rules3">Tienes 72 horas para disparar. Puedes jugar todos los juegos que quieras a la vez, pero sólo un juego a la vez contra el mismo oponente.</string>
+    <string name="rules4">Desafía a tus amigos o cualquier persona en todo el mundo a participar en un juego de Ship Battle. Obtener una calificación más alta al derrotar a sus oponentes. A ver si puedes hacer el top 25 de su país o incluso a nivel mundial.</string>
+    <string name="rules5">Que se diviertan!</string>
+    <string name="scorecolon">Marcador:</string>
+    <string name="selectacountry">seleccione el país</string>
+    <string name="service_label">Ship Battle</string>
+    <string name="sett_notifications">Notificaciones</string>
+    <string name="sett_random">Recibir invitaciones de jugadores al azar</string>
+    <string name="sett_sounds">Efectos sonoros</string>
+    <string name="sett_vibrations">Vibraciones</string>
+    <string name="setup_yourfleet">Configure su flota contra</string>
+    <string name="ship_battleship">el portaaviones</string>
+    <string name="ship_cruiser">"el crucero</string>
+    <string name="ship_frigate">un destructor</string>
+    <string name="ship_minesweeper">un submarino</string>
+    <string name="shipbattlerules">Reglas del Ship Battle</string>
+    <string name="theme_colon">Tema:</string>
+    <string name="threesubmarines">3 submarinos</string>
+    <string name="toast_alreadygamerunning">Ya tiene un juego o una invitación con este jugador</string>
+    <string name="toast_alreadyshothere">Ya rodadas aquí ...</string>
+    <string name="toast_cannot_enter_funny_stuff">Mensaje no puede contener &amp;, \' o #</string>
+    <string name="toast_cannotinviteyourself">Usted no puede invitar usted mismo</string>
+    <string name="toast_chat_limit_exceeded">Límite chat superó!</string>
+    <string name="toast_friendadded">Amigo sido agregado con éxito</string>
+    <string name="toast_friendremoved">Amigo se ha eliminado con éxito</string>
+    <string name="toast_invitationsuccessful">Invitación tuvo éxito</string>
+    <string name="toast_loggingin">Iniciando sesión ...</string>
+    <string name="toast_loggingoff">Cerrando la sesión ...</string>
+    <string name="toast_minimum2characters">Por favor, introduzca al menos 2 caracteres</string>
+    <string name="toast_nosuchusersfound">Ningún usuario encontrado ...</string>
+    <string name="toast_notyourturn">No es tu turno</string>
+    <string name="toast_playernonexistent">Este jugador no existe</string>
+    <string name="toast_resigning">Renunciando ..</string>
+    <string name="toast_resignnotpossible">No es posible renunciar</string>
+    <string name="toast_signingup">Registrando ...</string>
+    <string name="toast_someerror">Cierto error ocurrió</string>
+    <string name="toptwentyfivespace">Top 25 </string>
+    <string name="twodestroyers">2 destructores</string>
+    <string name="unlimited_chat">• Ilimitado de chat</string>
+    <string name="upgrade_premium">Mejorar a Ship Battle Premium!</string>
+    <string name="username">Nombre de usuario:</string>
+    <string name="view_last_fleets">• Ver últimos 5 flotas del oponente</string>
+    <string name="wallet_buy_button_place_holder">Comprar con Google</string>
+    <string name="whatdoyouwanttodo">¿Qué te gustaría hacer?</string>
+    <string name="worldrankcolon">Rango mundial:</string>
+    <string name="yourcountry">País:</string>
+    <string name="yournewratingcolon">Su nueva índice:</string>
+</resources>

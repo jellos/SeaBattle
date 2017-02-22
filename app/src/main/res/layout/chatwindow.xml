@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minHeight="500dp"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="18dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="6"
+        android:gravity="bottom"
+        android:orientation="vertical" >
+    
+	    <ScrollView
+	        android:id="@+id/chatScroll"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_gravity="bottom" >
+    
+	       	<LinearLayout
+	       	    android:layout_width="fill_parent"
+	       	    android:layout_height="match_parent"
+	       	    android:gravity="bottom"
+	       	    android:orientation="vertical" >
+	        
+			    <TextView
+			        android:id="@+id/allText"
+			        android:textIsSelectable="true"
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_gravity="bottom"
+			        android:textAppearance="?android:attr/textAppearanceSmall" />
+			    
+			</LinearLayout>
+	
+    	</ScrollView>
+    	
+	</LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|right"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/enterChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|clip_vertical"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:ems="10"
+            android:singleLine="true" >
+
+            <requestFocus />
+        </EditText>
+
+        <ImageButton
+            android:id="@+id/btnSendChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="clip_vertical"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/menu_send_chat" />
+
+    </LinearLayout>
+ 
+</LinearLayout>

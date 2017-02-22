@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RootView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/new_backgr_low_border"
+    android:gravity="top"
+    android:orientation="vertical"
+    android:weightSum="20" >
+        
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="17"
+        android:orientation="vertical">
+        
+		<ScrollView
+		        android:layout_width="fill_parent"
+		        android:layout_height="fill_parent"
+		        android:layout_gravity="top" >
+		        
+		   
+
+		    <LinearLayout 
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:orientation="vertical">"
+		        
+		         <ImageView
+		             android:id="@+id/background_logo"
+		             android:layout_width="fill_parent"
+		             android:layout_height="wrap_content"
+		             android:layout_marginBottom="-10dp"
+		             android:layout_marginLeft="20dp"
+		             android:layout_marginRight="20dp"
+		             android:layout_marginTop="26dp"
+		             android:adjustViewBounds="true"
+		             android:src="@drawable/background_logo" />
+	    
+			<TextView
+			    android:id="@+id/changepw"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:layout_marginBottom="10dp"
+			    android:gravity="center"
+			    android:text="@string/changepassword"
+			    android:textColor="@color/white"
+			    android:textSize="21dip" />
+			
+			<TextView
+			    android:id="@+id/textView1" 
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:text="@string/currentpasswordcolon"
+			    android:textColor="@color/white"
+			    android:textAppearance="?android:attr/textAppearanceMedium" />
+			
+			<EditText 
+				android:id="@+id/CurrentPassword" 
+				android:layout_height="wrap_content" 
+				android:layout_width="240dip"
+				android:hint="@string/hint_currentpassword"
+				android:layout_gravity="center"
+				android:inputType="textPassword">
+				 <requestFocus />
+				 
+			</EditText>
+			
+			<TextView
+			    android:id="@+id/choosePassword"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/choosenewpasswordcolon"
+			    android:layout_gravity="center"
+			    android:textColor="@color/white"
+			    android:textAppearance="?android:attr/textAppearanceMedium" />		
+			
+			<EditText
+			    android:id="@+id/editChoosePW"
+			    android:layout_width="240dip"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:hint="@string/hint_choosenewpassword"
+			    android:ems="10"
+			    android:inputType="textPassword" />
+			
+			<TextView
+			    android:id="@+id/repeatPassword"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:textColor="@color/white"
+			    android:text="@string/repeatpasswordcolon"
+			    android:textAppearance="?android:attr/textAppearanceMedium" />		
+			
+			<EditText
+			    android:id="@+id/editRepeatPW"
+			    android:layout_width="240dip"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:hint="@string/repeatpassword"
+			    android:ems="10"
+			    android:inputType="textPassword" />
+
+			<TextView
+			    android:id="@+id/TextView01"
+			    android:layout_width="240dip"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:gravity="center" />
+			
+			<Button
+			    android:id="@+id/btnResetPW"
+			    android:layout_width="240dip"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:layout_margin="10dp"
+			    android:textSize="21sp"
+			    android:background="@drawable/menu_button"
+			    android:text="@string/btn_change"
+			    android:textColor="@color/background_blue" />
+
+			</LinearLayout>
+		
+		</ScrollView>
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="top"
+    android:id="@+id/RootView"
+    android:weightSum="20"
+    android:background="@drawable/new_backgr_low_border"
+    android:orientation="vertical" >
+   
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_gravity="top"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="15"
+        android:gravity="center"
+        android:orientation="vertical" >
+    
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="top"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/background_logo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/background_logo" />
+            
+		<TextView
+		    android:id="@+id/shipbattlerules"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginBottom="15dip"
+		    android:layout_marginTop="15dip"
+		    android:gravity="center"
+		    android:text="@string/aboutshipbattle"
+		    android:layout_below="@id/background_logo"
+		    android:textColor="@color/white"
+		    android:textSize="22dip" />
+
+		<TextView
+		    android:id="@+id/rulestext1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:layout_marginBottom="15dip"
+		    android:text="@string/developedbykipsapgames"
+		    android:textColor="@color/white"
+		    android:layout_below="@id/shipbattlerules"
+		    android:textSize="15dip" />
+		
+		<TextView
+		    android:id="@+id/rulestext2"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:layout_marginBottom="15dip"
+		    android:text="@string/remarksemailthem"
+		    android:textColor="@color/white"
+		    android:layout_below="@+id/rulestext1"
+		    android:textSize="15dip" />    
+		
+		
+		<TextView
+		    android:id="@+id/rulestext3"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:layout_marginBottom="15dip"
+		    android:layout_marginTop="12dip"
+		    android:layout_below="@+id/rulestext2"
+		    android:text="@string/followus"
+		    android:textColor="@color/white"
+		    android:textSize="15dip" />
+		
+		
+    </RelativeLayout>
+    </ScrollView>
+    </LinearLayout>
+   </LinearLayout>

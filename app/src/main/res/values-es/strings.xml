@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ship Battle</string>    
+    
+    <string name="username">Nombre de usuario:</string>
+    <string name="password">Contrase&#241;a:</string>     
+    <string name="yourcountry">Pa&#237;s:</string>
+    <string name="friendcolon">Amigo:</string>
+    <string name="choosepasswordcolon">Elegir contrase&#241;a:</string>
+    <string name="repeatpasswordcolon">Repetir contrase&#241;a:</string>   
+    <string name="currentpasswordcolon">Contrase&#241;a actual:</string> 
+    <string name="choosenewpasswordcolon">Elija una contrase&#241;a nueva:</string>
+    <string name="emailaddresscolon">Direcci&#243;n email:</string>
+    <string name="changepassword">Cambiar contrase&#241;a</string>
+    <string name="choosepassword">elegir contrase&#241;a</string>
+    <string name="repeatpassword">repetir contrase&#241;a</string>   
+    <string name="emailaddress">direcci&#243;n email</string>
+    
+    <string name="service_label">Ship Battle</string>
+    
+    <string name="hint_username">nombre de usuario</string>    
+    <string name="hint_password">contrase&#241;a</string>
+    <string name="hint_currentpassword">contrase&#241;a actual</string>
+    <string name="hint_enterpartofname">entrar (parte de) un nombre</string>
+    <string name="hint_pickausername">elegir un nombre de usuario</string>
+    <string name="hint_choosenewpassword">elija una contrase&#241;a nueva</string>
+    
+    <string name="msg_selectcountry">Por favor, seleccione su pa&#237;s</string>
+    <string name="msg_usernamecannotbeempty">Nombre de usuario no puede estar vac&#237;o</string>    
+    <string name="msg_passwordcannotbeempty">La contrase&#241;a no puede estar vac&#237;a</string> 
+    <string name="msg_loggedin">Usted has iniciado sesi&#243;n</string>
+    <string name="msg_unknownuser">Usuario desconocido</string>
+    <string name="msg_incorrectpassword">La contrase&#241;a que ha introducido no es correcto</string>
+    <string name="msg_incorrectversion">Por favor, actualice la aplicaci&#243;n a la &#250;ltima versi&#243;n</string>
+    <string name="msg_invalidrequest">Strange things happening, invalid request</string>
+    <string name="msg_nocommunication">No se puede comunicar con el servidor del juego, por favor, comprueba tu conexi&#243;n a Internet</string>
+    <string name="msg_thirtytwocharacters">Nombre de usuario no puede superar los 32 caracteres</string>
+    <string name="msg_twocharacters">Nombre de usuario tiene que contener al menos 2 caracteres</string>
+    <string name="msg_notavalidemailaddress">No es una direcci&#243;n email v&#225;lida</string>
+    <string name="msg_samepasswordtwice">Por favor, escriba la misma contrase&#241;a dos veces</string>
+    <string name="msg_nofunnystuff">Nombre de usuario no puede contener &amp;, \' o #</string>
+    <string name="msg_noconnection">Sin conexi&#243;n</string>
+    <string name="msg_passwordsuccessfullychanged">Su contrase&#241;a se ha cambiado con &#233;xito</string>
+    
+    <string name="msg_signupsuccess">Ha registrado con &#233;xito</string>
+    <string name="msg_usernametaken">Este nombre de usuario ya existe</string>
+    <string name="msg_generalerror">Error general</string>
+    
+    <string name="toast_loggingin">Iniciando sesi&#243;n ...</string>
+    <string name="toast_signingup">Registrando ...</string>
+    <string name="toast_loggingoff">Cerrando la sesi&#243;n ...</string>
+    <string name="toast_resigning">Renunciando ..</string>
+    <string name="toast_invitationsuccessful">Invitaci&#243;n tuvo &#233;xito</string>
+    <string name="toast_alreadygamerunning">Ya tiene un juego o una invitaci&#243;n con este jugador</string>
+    <string name="toast_cannotinviteyourself">Usted no puede invitar usted mismo</string>
+    <string name="toast_playernonexistent">Este jugador no existe</string>
+    <string name="toast_friendadded">Amigo sido agregado con &#233;xito</string>
+    <string name="toast_friendremoved">Amigo se ha eliminado con &#233;xito</string>
+    <string name="toast_resignnotpossible">No es posible renunciar</string>
+    <string name="toast_someerror">Cierto error ocurri&#243;</string>
+    <string name="toast_notyourturn">No es tu turno</string>
+    <string name="toast_alreadyshothere">Ya rodadas aqu&#237; ...</string>
+    <string name="toast_minimum2characters">Por favor, introduzca al menos 2 caracteres</string>
+    <string name="toast_nosuchusersfound">Ning&#250;n usuario encontrado ...</string>
+    <string name="toast_chat_limit_exceeded">L&#237;mite chat super&#243;!</string>
+    <string name="toast_cannot_enter_funny_stuff">Mensaje no puede contener &amp;, \' o #</string>
+    
+    <string name="ftoast_yousankaship">Usted destruy&#243; %s!</string>
+    <string name="ftoast_youlostaship">Usted ha perdido %s ...</string>
+    
+    <string name="ftoast_addingfriend">Agregando %s a la lista de amigos</string> 
+    <string name="ftoast_opponentresigned">%s ha renunciado, usted ha ganado!</string>
+    <string name="fpick_youwon">Usted ha ganado contra %s!</string>
+    <string name="fpick_opponentbeatyou">%s te ha derrotado ...</string>
+    <string name="fpick_youresigned">Usted renunci&#243; contra %s</string>
+    <string name="fpick_opponentresigned">%s ha renunciado</string>
+    <string name="fpick_pendinginvitation">Pendiente invitaci&#243;n a %s</string>
+    <string name="fpick_setupyourfleet">Configure su flota contra %s</string>
+    <string name="fpick_waitingfor">Esperando a %s</string>
+    <string name="fpick_yourturn">Su turno contra %s</string>
+    <string name="fpick_opponentsturn">Es %s turno</string>
+    <string name="fpick_invitationfrom">Invitaci&#243;n de %s</string>
+    <string name="fdialog_suretoaddfriend">&#191;Quieres agregar %s a tu lista de amigos?</string>
+    <string name="dialog_areyousure_to_start">&#191;Est&#225; seguro de comenzar el juego con esta flota?</string>
+    <string name="fdialog_youwonin">Usted gan&#243; en %d tiros!</string>
+    <string name="fdialog_suretoresign">&#191;Seguro que quieres renunciar contra %s?</string>
+    <string name="dialog_youlost">Usted ha perdido ...</string>
+    <string name="dialog_yourfriends">Sus amigos:</string> 
+    <string name="dialog_welcometoshipbattle">Bienvenido a Ship Battle</string>
+    <string name="dialog_welcomeuitleg1">&#8226; Por favor tome un momento para registrarse en una cuenta gratuita.</string>
+    <string name="dialog_welcomeuitleg2">&#8226; Tu direcci&#243;n email s&#243;lo ser&#225; utilizada en caso de que desea restablecer su contrase&#241;a.</string>
+    <string name="dialog_welcomeuitleg3">&#8226; Ship Battle utiliza clasificaciones basadas en su pa&#237;s de residencia, que tambi&#233;n se puede introducir en la pantalla "Reg&#237;strese".</string>
+    <string name="dialog_gameoverviewscreen">Pantalla de juegos general</string>    
+    <string name="dialog_gameoverviewscreen_uitleg1">&#8226; Esta pantalla mostrar&#225; su juegos activos y su juegos recientemente terminados.</string>
+    <string name="dialog_gameoverviewscreen_uitleg2">&#8226; Puedes buscar los oponentes punteando en la lupa.</string>
+    <string name="dialog_gameoverviewscreen_uitleg3">&#8226; Pulse en el signo m&#225;s para iniciar un nuevo juego con un amigo, un oponente al azar o el computador.</string>
+    
+    <string name="fbtn_send_player_game_invitation">Enviar una invitaci&#243;n de juego a %s</string>
+    <string name="fbtn_add_player_to_friends_list">Agregar %s a la lista de amigos</string>
+    <string name="fremove_player_from_friends_list">&#191;Eliminar %s desde la lista de amigos?</string>
+    
+    <string name="btn_login">Iniciar sesi&#243;n</string>
+    <string name="btn_signup">Reg&#237;strese</string>
+    <string name="btn_send_game_invitation">Enviar invitaci&#243;n juego</string>
+    <string name="btn_add_to_friends_list">Agregar a la lista de amigos</string>    
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_search">Buscar</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_decline">Rechazar</string>
+    <string name="btn_yes">S&#237;</string>
+    <string name="btn_no">No</string>
+    <string name="btn_rematch">Revancha!</string>
+    <string name="btn_meh">No revancha</string>
+    <string name="btn_newgame">Nuevo juego</string>
+    <string name="btn_findfriends">Buscar jugadores</string>
+    <string name="btn_settings">Configuraci&#243;n</string>
+    <string name="btn_stats">Estad&#237;sticas</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="btn_yeah_sure">S&#237;, claro!</string>
+    <string name="btn_not_now">No ahora</string>
+    <string name="btn_buy_premium_version">Compre versi&#243;n Premium</string>
+    <string name="map_colon">Mapa:</string>
+    <string name="theme_colon">Tema:</string>
+    
+    <string name="computer">Computador</string>
+    <string name="likeshipbattle">&#191;Te gusta Ship Battle?</string>
+    <string name="giveareview">Danos tu opini&#243;n en el Play Store!</string>
+    
+    <string name="ship_battleship">el portaaviones</string>
+    <string name="ship_cruiser">"el crucero</string>
+    <string name="ship_frigate">un destructor</string>
+    <string name="ship_minesweeper">un submarino</string>
+    
+    <string name="fsfleet_history">flota historia de %s</string>
+    <string name="fhas_no_fleet_history">%s no tiene ninguna flota historia todav&#237;a</string>
+    <string name="fnoti_opponentwaiting">%s se ha establecido su flota y te espera</string>
+    <string name="fnoti_youlostvs">Usted perdi&#243; contra %s</string>
+    <string name="ffnoti_openinvitation_with_rating">%1$s (&#205;ndice: %2$s) te invita a jugar una partida de Ship Battle</string>
+    <string name="ffnoti_openinvitation">%s te invita a jugar una partida de Ship Battle</string>
+    <string name="fnoti_24hleft">Usted tiene menos de 24 horas restantes contra %s</string>
+    <string name="new_chat_message">Nuevo mensaje de chat</string>
+    
+    <string name="sett_sounds">Efectos sonoros</string>
+    <string name="sett_vibrations">Vibraciones</string>
+    <string name="sett_notifications">Notificaciones</string>
+    <string name="sett_random">Recibir invitaciones de jugadores al azar</string>
+    
+    <string name="forgotpasswordsendemail">&#191;Has olvidado tu contrase&#241;a? Enviar un email a info@ship-battle.com</string>
+    <string name="selectacountry">seleccione el pa&#237;s</string>
+    <string name="doubletap">Doble toque para cambiar la orientaci&#243;n de un barco</string>
+    <string name="setup_yourfleet">Configure su flota contra</string>
+    <string name="invite_player">Invitar jugador:</string>
+    <string name="add_friends_list">Agregar a la lista de amigos</string>
+    <string name="fplayerstats">Estad&#237;sticas de %s</string>
+    <string name="randomopponent">Oponente al azar</string>
+    <string name="ratingcolon">&#205;ndice:</string>
+    <string name="gameswoncolon">Juegos ganados:</string>
+    <string name="gameslostcolon">Juegos perdidos:</string>
+    <string name="worldrankcolon">Rango mundial:</string>
+    <string name="nationalrankcolon">Rango nacional:</string>
+    
+    <string name="yournewratingcolon">Su nueva &#237;ndice:</string>
+    <string name="opponentsnewratingcolon">%s nueva &#237;ndice:</string>
+    <string name="fyouwon_opponentresigned">Ganaste porque %s renunci&#243;</string>
+    <string name="whatdoyouwanttodo">&#191;Qu&#233; te gustar&#237;a hacer?</string>
+    
+    <string name="menu_logoff">Cerrar sesi&#243;n</string>
+    <string name="menu_resign">Renunciar</string>
+    <string name="menu_rematch">Revancha</string>
+    <string name="menu_about">Info</string>
+    <string name="menu_game_rules">Reglas del juego</string>
+    <string name="menu_add_friend">Agregar Amigo</string>
+    <string name="menu_buy_premium">Mejorar a Premium</string>
+    
+    <string name="scorecolon">Marcador:</string>
+    <string name="shipbattlerules">Reglas del Ship Battle</string>
+    <string name="rules1">El objetivo de este juego es destruir la flota de tu oponente antes de que puedan destruir el tuyo. Despu&#233;s de haber configurado su flota, que se turnan para disparar a una location en el campo de juego de los dem&#225;s.</string>
+    <string name="rules2">Su flota incluye los siguientes buques:</string>
+    <string name="oneaircraftcarrier">1 portaaviones</string>
+    <string name="onecruiser">1 crucero</string>
+    <string name="twodestroyers">2 destructores</string>
+    <string name="threesubmarines">3 submarinos</string>
+    <string name="rules3">Tienes 72 horas para disparar. Puedes jugar todos los juegos que quieras a la vez, pero s&#243;lo un juego a la vez contra el mismo oponente.</string>
+    <string name="rules4">Desaf&#237;a a tus amigos o cualquier persona en todo el mundo a participar en un juego de Ship Battle. Obtener una calificaci&#243;n m&#225;s alta al derrotar a sus oponentes. A ver si puedes hacer el top 25 de su pa&#237;s o incluso a nivel mundial.</string>
+    <string name="rules5">Que se diviertan!</string>
+    
+    <string name="aboutshipbattle">Acerca de Ship Battle</string>
+    <string name="developedbykipsapgames">Ship Battle es desarrollado por Kipsap Games.</string>
+    <string name="remarksemailthem">Si tiene comentarios o sugerencias, por favor env&#237;elas a info@ship-battle.com.</string>
+    <string name="followus">S&#237;guenos en twitter: @KipsapGames</string>
+    <string name="toptwentyfivespace">Top 25 </string>
+    
+    <string name="upgrade_premium">Mejorar a Ship Battle Premium!</string>
+    <string name="maps_themes">&#8226; Elecci&#243;n de los 5 mapas y 4 temas</string>
+    <string name="no_ads">&#8226; No hay anuncios</string>
+    <string name="unlimited_chat">&#8226; Ilimitado de chat</string>
+    <string name="view_last_fleets">&#8226; Ver &#250;ltimos 5 flotas del oponente</string>
+    <string name="randomize_fleet">&#8226; Aleatorizar su flota</string>
+    
+</resources>

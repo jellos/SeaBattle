@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_blue">#000055</color>
+    <color name="zilverenrand">#d1d1d1</color>
+    <color name="zilverenbuitenrand">#858585</color>
+    <color name="background_other">#1084c8</color>
+    <color name="background_other_old">#394f9f</color>
+    <color name="ship_hit">#991266</color>
+    <color name="ship_miss">#21c412</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="cell">#373f21</color>
+</resources>

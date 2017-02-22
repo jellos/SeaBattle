@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minHeight="500dp"
+    android:orientation="vertical"
+    android:padding="10dp" >
+ 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:gravity="center"
+        android:orientation="horizontal" >
+    
+    <TextView
+        android:id="@+id/tvNewGame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="6dp"
+        android:text="@string/btn_newgame"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white" />
+
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <RadioButton
+            android:id="@+id/ngOption0"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:textColor="@color/white"
+            android:text="@string/computer" />
+        	
+        <RadioButton
+            android:id="@+id/ngOption1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:textColor="@color/white"
+            android:text="@string/randomopponent" />
+
+        <RadioButton
+            android:id="@+id/ngOption2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/friendcolon" />
+
+    </RadioGroup>    
+    
+    <ListView
+		   android:id="@+id/friendsListView"
+		   android:layout_width="fill_parent"
+		   android:layout_height="0dip"
+		   android:layout_weight="1"
+		   android:layout_marginLeft="10dp"
+		   android:layout_marginRight="10dp"
+		   android:padding="5dp"
+		   android:scrollbars="vertical"
+		   android:smoothScrollbar="true"
+		   android:background="@android:color/transparent"
+		   android:cacheColorHint="#00000000"
+		   android:textSize="8sp"
+		   android:choiceMode="singleChoice" />        
+ 
+</LinearLayout>
