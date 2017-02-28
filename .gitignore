@@ -6,3 +6,6 @@ build
 *.class
 .gradle
 .iml
+
+*.iml
+app/app.iml
