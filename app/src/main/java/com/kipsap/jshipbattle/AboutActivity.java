@@ -6,7 +6,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.widget.LinearLayout;
+import android.widget.LinearLayout; //blaap
 
 public class AboutActivity extends Activity {
 
