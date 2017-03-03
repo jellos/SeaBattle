@@ -58,7 +58,7 @@ public class JGamePicker extends FragmentActivity {
     ListView lvGamesList;
     LazyAdapter glAdapter;
     final Context context = this;
-    String currentUsr, invitee, selectedFriend = null, selectedFoundUser = null;
+    String currentUsr, selectedFriend = null, selectedFoundUser = null;
     private ImageButton ibtnNewgame, ibtnFindfriends, ibtnStats, ibtnSettings, ibtnRefresh, buttonMenuMenu;
     private JGetDataFromWebService jgd;
     RadioButton rbOption0, rbOption1, rbOption2;
@@ -106,7 +106,6 @@ public class JGamePicker extends FragmentActivity {
         mPremiumAppBoughtListener = new IabHelper.OnIabPurchaseFinishedListener() {
             public void onIabPurchaseFinished(IabResult result, Purchase purchase) {
                 if (result.isFailure()) {
-                    //Toast.makeText(JGamePicker.this, "Purchase failure ...", Toast.LENGTH_SHORT).show();
                     return;
                 } else if (purchase.getSku().equals(JConstants.SKU_PREMIUM_APP)) {
                     Log.d(TAG_SHIPBATTLE, "In-app Billing: purchase finished, premium app bought!");
@@ -350,9 +349,6 @@ public class JGamePicker extends FragmentActivity {
 
     private void setupUi()
     {
-        //styleID = Math.max(0, sharedPrefs.getInt("styleID", 0));
-        //themeID = Math.max(0, sharedPrefs.getInt("themeID", 0));
-
         setButtonRefreshOrRefreshing(); //to set the correct styleID for the refresh button
 
         switch (styleID)
@@ -381,7 +377,6 @@ public class JGamePicker extends FragmentActivity {
                 ibtnSettings.setBackgroundResource(R.drawable.settings_white);
                 ibtnRefresh.setBackgroundResource(R.drawable.refresh_white);
                 break;
-
             case 3:
                 rootView.setBackgroundResource(R.drawable.new_backgr_high_border_no_logo_brush);
                 ibtnNewgame.setBackgroundResource(R.drawable.plus_brush);
@@ -753,7 +748,6 @@ public class JGamePicker extends FragmentActivity {
 
         bRequestingGamesList = true;
         setupUi();
-        //setButtonRefreshOrRefreshing();
         jgd.requestRunningGames(JGamePicker.this, currentUsr, appVersion);
 
         timer = new Timer();
@@ -764,9 +758,6 @@ public class JGamePicker extends FragmentActivity {
 
     @Override
     protected void onPause() {
-        //if (mHelper != null)
-        //	mHelper.dispose();
-        //mHelper = null;
         if (timer != null)
             timer.cancel();
         SharedPreferences.Editor editor;
@@ -794,15 +785,8 @@ public class JGamePicker extends FragmentActivity {
         ibtnNewgame.setEnabled(true);
         switch (resultCode) {
             case JConstants.RESULT_OK:
-                //Toast.makeText(JGamePicker.this, getString(R.string.toast_loggingoff), Toast.LENGTH_SHORT).show();
                 // after a successful invitation, request the updated games list:
                 Toast.makeText(JGamePicker.this, getString(R.string.toast_invitationsuccessful), Toast.LENGTH_SHORT).show();
-                //if (bAddFriend)
-                //{
-                //	String formatted_toast = String.format(getString(R.string.ftoast_addingfriend), friend);
-                //	Toast.makeText(JGamePicker.this, formatted_toast, Toast.LENGTH_SHORT).show();
-                //	jgd.addToFriendsList(JGamePicker.this, currentUsr, friend);
-                //}
                 bRequestingGamesList = true;
                 setButtonRefreshOrRefreshing();
                 jgd.requestRunningGames(JGamePicker.this, currentUsr, appVersion);
@@ -812,11 +796,6 @@ public class JGamePicker extends FragmentActivity {
                 break;
             case JConstants.RESULT_ALREADY_RUNNING_GAME:
                 Toast.makeText(JGamePicker.this, getString(R.string.toast_alreadygamerunning), Toast.LENGTH_SHORT).show();
-                //if (bAddFriend)
-                //{
-                //Toast.makeText(JGamePicker.this, "Adding " + friend + " to friends list", Toast.LENGTH_SHORT).show();
-                //	jgd.addToFriendsList(JGamePicker.this, currentUsr, friend);
-                //}
                 break;
             case JConstants.RESULT_CANNOT_PLAY_AGAINST_YOURSELF:
                 Toast.makeText(JGamePicker.this, getString(R.string.toast_cannotinviteyourself), Toast.LENGTH_SHORT).show();
@@ -861,7 +840,6 @@ public class JGamePicker extends FragmentActivity {
                 break;
             case JConstants.RESULT_NOT_OK:
                 // friend not added
-
                 break;
             case JConstants.RESULT_INVALID_REQUEST:
                 Toast.makeText(JGamePicker.this, getString(R.string.msg_invalidrequest), Toast.LENGTH_SHORT).show();
@@ -902,8 +880,6 @@ public class JGamePicker extends FragmentActivity {
             if (gamesList == null) {
                 Toast.makeText(context, getString(R.string.msg_noconnection), Toast.LENGTH_SHORT).show();
             } else {
-                //Toast.makeText(JGamePicker.this, "Received gameslist, took " + timeittook + "ms", Toast.LENGTH_SHORT).show();
-
                 final ArrayList<GameInstance> algi = gamesList;
                 final ArrayList<GameInstance> reorderedGamesList = new ArrayList<GameInstance>();
                 final int[] alleGameStates = new int[gamesList.size()];
@@ -990,7 +966,6 @@ public class JGamePicker extends FragmentActivity {
                 }
 
                 // 2e ronde:
-
                 for (GameInstance gi : algi) {
                     String timeago = "";
                     text = "";
@@ -1218,7 +1193,6 @@ public class JGamePicker extends FragmentActivity {
         bundle.putLong("hits2user1", g.getHits2User1());
         bundle.putLong("hits2user2", g.getHits2User2());
         bundle.putLong("gameID", g.getGameID());
-        // // bundle.putBoolean("newChat", value)
 
         Intent goShoot = new Intent(JGamePicker.this, ShootActivity.class);
         goShoot.putExtras(bundle);
@@ -1297,32 +1271,10 @@ public class JGamePicker extends FragmentActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        //unbindDrawables(findViewById(R.id.RootView));
-        //System.gc();
         if (mHelper != null)
             mHelper.dispose();
         mHelper = null;
     }
-	
-	/*
-	private void unbindDrawables(View view) 
-	{
-        if (view.getBackground() != null) 
-        {
-        	view.getBackground().setCallback(null);
-        }
-        if (view instanceof ViewGroup) 
-        {
-            for (int i = 0; i < ((ViewGroup) view).getChildCount(); i++) 
-            {
-            	unbindDrawables(((ViewGroup) view).getChildAt(i));
-            }
-            ((ViewGroup) view).removeAllViews();
-        }
-    }
-	*/
-
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -1430,7 +1382,6 @@ public class JGamePicker extends FragmentActivity {
                 about.setTextColor(getResources().getColor(R.color.background_blue));
                 buyPremium.setTextColor(getResources().getColor(R.color.background_blue));
                 break;
-
             case 3:
                 logoff.setBackgroundResource(R.drawable.menu_button_brush);
                 changepw.setBackgroundResource(R.drawable.menu_button_brush);
@@ -1444,7 +1395,6 @@ public class JGamePicker extends FragmentActivity {
                 buyPremium.setTextColor(getResources().getColor(R.color.background_blue));
                 break;
         }
-
 
         if (bPaidVersion)
             buyPremium.setVisibility(View.GONE);

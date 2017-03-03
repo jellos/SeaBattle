@@ -1,7 +1,5 @@
 package com.kipsap.jshipbattle;
 
-import com.kipsap.commonsource.JConstants;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;
