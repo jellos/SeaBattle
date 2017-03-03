@@ -5,7 +5,4 @@ build
 # Java class files
 *.class
 .gradle
-.iml
-
-*.iml
 app/app.iml
